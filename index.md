@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Avatasia
-tagline: Supporting tagline
+title: Homepage
 ---
 
 
