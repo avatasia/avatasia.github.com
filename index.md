@@ -3,7 +3,7 @@ layout: page
 title: Avatasia
 tagline: Supporting tagline
 ---
-{% include JB/setup %}
+
 
 测试修改
 
