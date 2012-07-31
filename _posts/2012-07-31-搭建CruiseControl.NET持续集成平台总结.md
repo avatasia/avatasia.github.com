@@ -12,6 +12,7 @@ tags: [.net,持续集成,CC.NET]
 参照博客园L.Qiu的文章[CruiseControl.Net持续集成平台搭建总结](http://www.cnblogs.com/qiuliang/archive/2011/05/04/2036557.html),下载地址要去[sf.net](http://sf.net)找，我下的是最新的1.8.0版。
 
 ## CC.Net的安装中出现的问题
+
 1. 系统服务中无法启动CC.Net
 
 这是因为CC.Net安装目录下ccnet.conf没有配置，可参照L.Qiu的文章里的配置，如果XML格式错误，也会启动失败。
