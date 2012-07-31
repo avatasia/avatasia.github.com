@@ -7,11 +7,9 @@ tags: [.net,持续集成,CC.NET]
 ---
 {% include JB/setup %}
 
-# 搭建CruiseControl.NET持续集成平台总结
-
 参照博客园L.Qiu的文章[CruiseControl.Net持续集成平台搭建总结](http://www.cnblogs.com/qiuliang/archive/2011/05/04/2036557.html),下载地址要去[sf.net](http://sf.net)找，我下的是最新的1.8.0版。
 
-## CC.Net的安装中出现的问题
+### CC.Net的安装中出现的问题
 
 1. 系统服务中无法启动CC.Net
 
